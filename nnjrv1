@@ -480,7 +480,7 @@ http://anevia114.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 ///////NORTH KOREA///////
-#EXTINF:-1 group-title="NORTH KOREA" tvg-logo="https://i0.wp.com/kfaspain.es/wp-content/uploads/2022/01/logo-KCTV.png",NORTH KOREA TV 🇰🇵
+#EXTINF:-1 group-title="NORTH KOREA" tvg-logo="https://i0.wp.com/kfaspain.es/wp-content/uploads/2022/01/logo-KCTV.png",KCTV 🇰🇵
 https://tv.nknews.org/tvdash/stream.mpd
 
 
