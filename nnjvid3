@@ -77,7 +77,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="France",Chérie 25 (1080p)
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="France",Euronews Français (720p)
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="FRANCE,Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
 
 ///JAPAN///
