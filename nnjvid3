@@ -4,6 +4,12 @@
 ///INDONESIA////
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png", MNCTV
+https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png", RCTI
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -15,9 +21,9 @@ http://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png", iNews
 http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/RZq1hBDD/SCTV-1.png", SCTV 
-https://sub.home-tv.my.id/first/sctv.m3u8
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR 
-https://sub.home-tv.my.id/first/indosiar.m3u8
+#https://sub.home-tv.my.id/first/sctv.m3u8
+#EXTINF:-1 group-title="INDONESIA;Indonesia 🇮🇩 (server 2)" tvg-logo="https://i.postimg.cc/d0YnHqx7/indosiar.png", INDOSIAR
+#https://sub.home-tv.my.id/first/indosiar.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/BbVMMHrs/antv.png", ANTV
@@ -30,6 +36,8 @@ http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/hGJVKRG1/net-1.png", NET
 http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="INDONESIA", Moji
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/Gmgk0mbp/rtv-1.png", RTV
@@ -46,10 +54,6 @@ http://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png", TransTV
 http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans7
-http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png", TVRI
@@ -69,6 +73,14 @@ http://anevia114.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/4d673fRV/BALI.png", Bali TV
 #http://Live-cdn.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/0QB6156P/Bandung-TV.png", Bandung TV
+http://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/dQpg6Lzs/OKTV.png", OK TV
+http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 ///FRANCE///
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="FRANCE",TV5Monde Pacifique
