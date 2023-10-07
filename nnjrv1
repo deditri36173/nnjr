@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
-#EXTINF:-1
-https://youtu.be/mJDGB-Y18AY
+#EXTINF:-1 tvg-logo=”https://media.licdn.com/dms/image/C4E03AQGEOP7f8u4VGQ/profile-displayphoto-shrink_800_800/0/1535006463019?e=2147483647&v=beta&t=tc4YQXyI-BjKBcfaVXKiASZXLHTHEQSD9BpjbR0GOPw” group-title=”INDONESIA”, LIFESTYLERETREATS
+https://www.googleapis.com/drive/v3/files/1kS0mQUTXaFgTx7HfYRn0CpJR1p9t_8vR?alt=media&key=AIzaSyAbTLoYwgahOw08NFyuCPfPJFlJbnZk920
 
 
