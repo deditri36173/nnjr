@@ -40,7 +40,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="FRANCE",TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 French (720p)
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="FRANCE",France 24 French
 http://81.94.196.204/tsstreamer/France24_HD.ts
 
 #///JAPAN///
