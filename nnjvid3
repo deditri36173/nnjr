@@ -25,7 +25,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://scontent.fdps7-1.fna.fbcdn.net/v/t39.30808-1/277800092_837380047206033_1597108459780052091_n.jpg?stp=dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHWdZvRgSfBEILgSCNF1IxVMmW4JrsHCe8yZbgmuwcJ7wClOl4KhHoLUsklVWHTLR8&_nc_ohc=fLsm6uuZAMUAX__YPEE&_nc_ht=scontent.fdps7-1.fna&oh=00_AfDat3N1ECDwp5ChuZMjS54_PsNi7TeZkr7XbMlb-xhfgw&oe=652DB368" group-title="SOUTH KOREA",ABN TV
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="SOUTH KOREA",ABN TV
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 
 #EXTINF:-1 tvg-id="CTSTV.kr" tvg-logo="https://i.imgur.com/z3L8uNB.png" group-title="SOUTH KOREA",CTS기독교TV 
