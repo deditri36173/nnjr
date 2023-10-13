@@ -41,7 +41,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="FRANCE",France 24 French
-http://81.94.196.204/tsstreamer/France24_HD.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697202217/ei/yesoZa2TCbi93LUPmeSx-Ag/ip/103.109.157.90/id/tkDUSYHoKxE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fzo4YymN4LjlBP7pOUvKzzSO2FoVf1qhPBa5S0aP_ruNXW_V7e8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgMstZag2kUO5hbaCyiEkhUj2JuqQDYxRNGkOIPGkKUnoCIQC89m-j2Wdl3VYlFU3sS-fAFgy99FOXtr94pXdx6WzDRw%3D%3D/file/index.m3u8
 
 #///JAPAN///
 #EXTINF:-1 tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="JAPAN",QVC Japan
