@@ -1,26 +1,4 @@
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml, 
-https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, 
-https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, 
-https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, 
-https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, 
-https://weareblahs.github.io/epg/astro.xml, 
-https://weareblahs.github.io/epg/rtmklik.xml, 
-https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, 
-https://macan.tv/xmltv.php?username=epg&password=epg, 
-https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, 
-https://epg.kampung.xyz/IPTV.xml,
-https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, 
-https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, 
-https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, 
-https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, 
-https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, 
-https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, 
-https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, 
-https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"  refresh="3600"
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
 
-
-#///INDONESIA///
 #EXTINF:-1 tvg-logo=”https://media.licdn.com/dms/image/C4E03AQGEOP7f8u4VGQ/profile-displayphoto-shrink_800_800/0/1535006463019?e=2147483647&v=beta&t=tc4YQXyI-BjKBcfaVXKiASZXLHTHEQSD9BpjbR0GOPw” group-title=”INDONESIA”, Lifestyle Retreats
 https://www.googleapis.com/drive/v3/files/1xk802Bv5_6oE4uG-ZLbHm-R6x-fviE5N?alt=media&key=AIzaSyAbTLoYwgahOw08NFyuCPfPJFlJbnZk920
 
@@ -36,12 +14,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
 
 
-#///FRANCE///
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="FRANCE",TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 
-#///JAPAN///
 #EXTINF:-1 tvg-id="QVCJapan.jp" tvg-logo="https://i.imgur.com/xWSzQ34.png" group-title="JAPAN",QVC Japan
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
@@ -50,7 +26,7 @@ https://ythls.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="JAPAN",NTV News24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#///KOREA///
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -63,7 +39,7 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="CTSTV.kr" tvg-logo="https://i.imgur.com/z3L8uNB.png" group-title="SOUTH KOREA",CTS기독교TV 
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 
-#///NEWS///
+
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
 https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 
@@ -83,7 +59,6 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9Nwxc1M/TRT.png" group-title="NEWS",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#///ENTERTAINMENT////
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="ENTERTAINMENT",MTV Live
 https://bit.ly/46646g0
 
@@ -93,14 +68,14 @@ https://a360-usweeklytv-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="W14DKD3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="ENTERTAINMENT",RetroTV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 
-#///KIDS///
+
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KidsFlix.us" tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="Kids",KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#///LIFESTYLE///
+
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="LIFESTYLE",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -112,7 +87,7 @@ https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="TastemadeAustralia.au" tvg-logo="https://i.imgur.com/rR7CLzZ.png" group-title="LIFESTYLE",Tastemade
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 
-#///MOVIES///
+
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="MOVIES",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="MOVIES",MovieSphere
