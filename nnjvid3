@@ -77,6 +77,6 @@ https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="MOVIES",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="W14DKD3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="ENTERTAINMENT",RetroTV
+#EXTINF:-1 tvg-id="W14DKD3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Retro_Television_Network.png/512px-Retro_Television_Network.png" group-title="MOVIES",RetroTV
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8
 
