@@ -32,8 +32,8 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1697284007/ei/RysqZb2MA9S6z7sP4KiZsAE/ip/182.253.163.70/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f8f5Zont_9UJ5eUdX_9BMZoRfz8MVuckPUNlKUj0Posubwdl5i4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRAIgZ29U3kDFmbxbYn5qldewnp2rULX8Vrp1v46cQWyznFcCICv2H9ZGx_GDxYSk0m4yWtH8FxoNStRFUawujUPTwF6w/file/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="NEWS",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
