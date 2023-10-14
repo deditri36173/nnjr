@@ -56,7 +56,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="ENTERTAINMENT",MTV Live
 https://bit.ly/46646g0
 
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="Music",Clubbing TV
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="ENTERTAINMENT",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UsWeeklyTV.us" tvg-logo="https://i.imgur.com/IMsk88B.png" group-title="ENTERTAINMENT",US Weekly
