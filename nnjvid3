@@ -2,8 +2,11 @@
 https://www.googleapis.com/drive/v3/files/1xk802Bv5_6oE4uG-ZLbHm-R6x-fviE5N?alt=media&key=AIzaSyAbTLoYwgahOw08NFyuCPfPJFlJbnZk920
 
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/BbVMMHrs/antv.png" group-title="INDONESIA",ANTV
-http://rr2.dens.tv/s/s07/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV
+http://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png", KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
