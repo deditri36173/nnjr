@@ -5,7 +5,7 @@ https://www.googleapis.com/drive/v3/files/1ac9fp9KoLkdf81E8uDBLQBiieVDi5s7N?alt=
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/RhFg7XbX/kompastv.png", KOMPAS TV
-http://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711359632/ei/MPIAZr79ApfMjuMPntuXuAY/ip/103.109.157.90/id/DOOrIxw5xOw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fwtWnWJvadGUpVs4CtZpcb4hTFMt_VEtHKjlL2WsuPyZXBMCBhQhiJk2/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO6xVGxfp3GaFdgP8Gfb9w7NzZI1ICw-IGDo-GCN5_rYAiBwvf99Y9RhVF3QjnYE6El13kYu20da039eiam_CSlDhg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/GhT7gvc2/metrotv-1.png", METRO TV
 #http://stream.semerutv.link:7780/freebies/EOti98qsWH/11
