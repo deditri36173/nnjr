@@ -4,7 +4,7 @@ https://www.googleapis.com/drive/v3/files/1ac9fp9KoLkdf81E8uDBLQBiieVDi5s7N?alt=
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/BbVMMHrs/antv.png" group-title="INDONESIA",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="CAMBODIA" tvg-logo="https://logos.fandom.com/wiki/TV5_Cambodia?file=TV5Khmer2017.svg", TV 5
+#EXTINF:-1 group-title="CAMBODIA" tvg-logo="https://imgur.com/QlMRWcL", TV 5
 https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 
 
