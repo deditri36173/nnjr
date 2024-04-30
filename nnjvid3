@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-logo=”https://media.licdn.com/dms/image/C4E03AQGEOP7f8u4VGQ/profile-displayphoto-shrink_800_800/0/1535006463019?e=2147483647&v=beta&t=tc4YQXyI-BjKBcfaVXKiASZXLHTHEQSD9BpjbR0GOPw” group-title=”INDONESIA”, Lifestyle Retreats
 https://www.googleapis.com/drive/v3/files/1kytPJxA5D_-XgfoIO6wYkRDMpk5pE7SY?alt=media&key=AIzaSyAbTLoYwgahOw08NFyuCPfPJFlJbnZk920
 
-#EXTINF:-1 tvg-id="CNN.id" tvg-name="CNN ID" tvg-logo="https://imgur.com/xat1oHy" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="CNN ID" tvg-logo="https://imgur.com/xat1oHy" group-title="INDONESIA",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/l0JyOrm.png", CNN Indonesia
+#EXTINF:-1 tvg-id="CNN.id" group-title="INDONESIA" tvg-logo="https://i.imgur.com/l0JyOrm.png", CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 
@@ -44,10 +44,10 @@ https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RTNews.ru" tvg-logo="https://i.postimg.cc/6Q2Wn1jp/RT.png" group-title="NEWS",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9Nwxc1M/TRT.png" group-title="NEWS",TRT World
+#EXTINF:-1 tvg-id="trtworld.asia" tvg-logo="https://imgur.com/boFIuq1" group-title="NEWS",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/zQzrumL" group-title="ENTERTAINMENT",MTV Japan
+#EXTINF:-1 tvg-id="mtvjapan.jp" tvg-logo="https://imgur.com/zQzrumL" group-title="ENTERTAINMENT",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="https://i.imgur.com/8giAFx5.png" group-title="ENTERTAINMENT",Clubbing TV
@@ -60,7 +60,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://imgur.com/KNBdBFf" group-title="LIFESTYLE",Fashion TV
+#EXTINF:-1 tvg-id="FashionTV" tvg-logo="https://imgur.com/KNBdBFf" group-title="LIFESTYLE",Fashion TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
