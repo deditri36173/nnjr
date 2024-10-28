@@ -1,11 +1,23 @@
 #EXTINF:-1 tvg-logo=”https://media.licdn.com/dms/image/C4E03AQGEOP7f8u4VGQ/profile-displayphoto-shrink_800_800/0/1535006463019?e=2147483647&v=beta&t=tc4YQXyI-BjKBcfaVXKiASZXLHTHEQSD9BpjbR0GOPw” group-title=”INDONESIA”, Lifestyle Retreats
 https://www.googleapis.com/drive/v3/files/1kytPJxA5D_-XgfoIO6wYkRDMpk5pE7SY?alt=media&key=AIzaSyAbTLoYwgahOw08NFyuCPfPJFlJbnZk920
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="CNN ID" tvg-logo="https://imgur.com/xat1oHy" group-title="INDONESIA",ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.postimg.cc/x1jqJ5VX/cnn-id.png" group-title="INDONESIA",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN.id" group-title="INDONESIA" tvg-logo="https://i.imgur.com/l0JyOrm.png", CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kompastv%20(2).png", Kompas TV
+#http://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/antv.png", ANTV
+http://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="FRANCE",TV5Monde Pacifique
