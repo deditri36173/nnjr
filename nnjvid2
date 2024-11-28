@@ -73,8 +73,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TastemadeAustralia.au" tvg-logo="https://i.imgur.com/rR7CLzZ.png" group-title="LIFESTYLE",Tastemade
-https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE",Food Network 
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="MOVIES",Filmstream
