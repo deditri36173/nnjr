@@ -41,7 +41,10 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9Nwxc1M/TRT.png" group-title="NEWS",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-id="mtvjapan.jp" tvg-logo="https://imgur.com/zQzrumL" group-title="ENTERTAINMENT",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
