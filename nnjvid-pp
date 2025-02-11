@@ -7,7 +7,7 @@ https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="CAMBODIA",SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 tvg-id="CNC.kh" tvg-logo="https://i.imgur.com/J8YLi0C.png" group-title=="CAMBODIA",CNC
+#EXTINF:-1 tvg-id="CNC.kh" tvg-logo="https://i.imgur.com/J8YLi0C.png" group-title="CAMBODIA",CNC
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="FRANCE",TV5Monde Pacifique
