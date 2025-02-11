@@ -61,8 +61,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE",Food Network 
-https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="LIFESTYLE",The Food Network 
+http://line.greatstar.me/play/live.php?mac=00:1A:79:11:D8:65&extension=ts&stream=571179
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
