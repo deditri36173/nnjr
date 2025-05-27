@@ -60,7 +60,7 @@
 
 
 
-
+#EXTM3U
 #EXTINF:-1 tvg-logo=”https://media.licdn.com/dms/image/C4E03AQGEOP7f8u4VGQ/profile-displayphoto-shrink_800_800/0/1535006463019?e=2147483647&v=beta&t=tc4YQXyI-BjKBcfaVXKiASZXLHTHEQSD9BpjbR0GOPw” group-title=”INDONESIA”, Lifestyle Retreats
 http://stream.lifestyleretreats.com:8086/lre_stream.m3u8
 
